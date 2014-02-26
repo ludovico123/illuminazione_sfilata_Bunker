@@ -1,4 +1,4 @@
-
+//Versione Modificata PROVA
 float theta = 0.0;  // Start angle at 0
 float amplitude = 255;//75.0;  // Height of wave
 float dx;  // Value for incrementing X, a function of period and xspacing
